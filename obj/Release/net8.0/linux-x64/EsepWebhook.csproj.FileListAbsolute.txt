@@ -1,0 +1,17 @@
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\EsepWebhook.deps.json
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\EsepWebhook.runtimeconfig.json
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\EsepWebhook.dll
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\EsepWebhook.pdb
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Amazon.Lambda.Core.dll
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.csproj.AssemblyReference.cache
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.AssemblyInfoInputs.cache
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.AssemblyInfo.cs
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.csproj.CoreCompileInputs.cache
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebh.2DAAD0C6.Up2Date
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.dll
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\refint\EsepWebhook.dll
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
+D:\CIS4930\AWS\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
